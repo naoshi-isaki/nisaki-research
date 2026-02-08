@@ -46,7 +46,7 @@ jobs:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
         run: |
-          hugo --gc --minify --ignoreErrors --baseURL "https://naoshi-isaki.github.io/nisaki-research/"
+          hugo build --gc --minify --ignoreErrors --baseURL "https://naoshi-isaki.github.io/nisaki-research/"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
