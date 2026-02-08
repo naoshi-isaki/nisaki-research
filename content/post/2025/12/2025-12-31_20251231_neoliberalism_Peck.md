@@ -1,3 +1,5 @@
+# 20251231/neoliberalism/Peck
+
 Peck, J. (2023). Explaining (with) neoliberalism. In _Neoliberalism and Education_ (pp. 17-42). Routledge.
 
 1.  新自由主義をめぐる概念的論争：膨張か、収束か  
