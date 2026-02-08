@@ -5,7 +5,8 @@ updated: 2025-10-05T23:12:26+09:00
 url: https://nisaki.hatenablog.jp/entry/2025/10/05/231226
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802888565276017137
 author: Nisaki
-edited: 2025-10-05T23:12:55+09:00---
+edited: 2025-10-05T23:12:55+09:00
+---
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja">
 <p dir="ltr" lang="en">Claus Offe<br /><br />These are some works that will give you a sense of what kind of a thinker Offe was.<br /><br />Contradictions of the Welfare State: <a href="https://t.co/9SOiyVZtC0">https://t.co/9SOiyVZtC0</a><br /><br />Two Logics: <a href="https://t.co/Lo8hdru7vt">https://t.co/Lo8hdru7vt</a><br /><br />New Social Movements: <a href="https://t.co/ZZWk7bTPAj">https://t.co/ZZWk7bTPAj</a> <a href="https://t.co/EQjyKpc7uj">https://t.co/EQjyKpc7uj</a> <a href="https://t.co/x27YLbGMz6">pic.twitter.com/x27YLbGMz6</a></p>

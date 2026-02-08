@@ -5,7 +5,8 @@ updated: 2025-10-05T23:07:42+09:00
 url: https://nisaki.hatenablog.jp/entry/2025/10/05/230742
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802888565276008182
 author: Nisaki
-edited: 2025-11-29T22:29:23+09:00---
+edited: 2025-11-29T22:29:23+09:00
+---
 
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fterriblesoftware.org%2F2025%2F10%2F01%2Fstop-avoiding-politics%2F" title="Stop Avoiding Politics" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://terriblesoftware.org/2025/10/01/stop-avoiding-politics/">terriblesoftware.org</a></cite></p>
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja">

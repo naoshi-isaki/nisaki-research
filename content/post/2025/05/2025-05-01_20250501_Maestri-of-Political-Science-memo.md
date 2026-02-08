@@ -5,7 +5,8 @@ updated: 2025-05-01T18:01:47+09:00
 url: https://nisaki.hatenablog.jp/entry/2025/05/01/180147
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398398302222
 author: Nisaki
-edited: 2025-05-01T18:02:16+09:00---
+edited: 2025-05-01T18:02:16+09:00
+---
 
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fecpr.eu%2FShop%2FShopProductInfo%3FproductID%3D14" title="Masters of Political Science" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://ecpr.eu/Shop/ShopProductInfo?productID=14">ecpr.eu</a></cite></p>
 <p>Robert Dahl, Anthony Downs, David Easton, S. E. Finer, Samuel P. Huntington, Juan J. Linz, Seymour Martin Lipset, Giovanni Sartori, Sidney Verba, Aaron Wildavsky,Hans Morgenthau.</p>

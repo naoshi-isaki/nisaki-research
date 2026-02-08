@@ -5,7 +5,8 @@ updated: 2025-12-29T13:04:59+09:00
 url: https://nisaki.hatenablog.jp/entry/2025/12/29/130459
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-17179246901337887457
 author: Nisaki
-edited: 2025-12-29T13:06:15+09:00---
+edited: 2025-12-29T13:06:15+09:00
+---
 
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnews.jp%2Fi%2F1377176327483998628%3Fc%3D39550187727945729" title="立憲民主党、中道推進で国際連携　「進歩同盟」加盟申請へ | NEWSjp" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://news.jp/i/1377176327483998628?c=39550187727945729">news.jp</a></cite></p>
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fcdp-japan.jp%2Fnews%2F20251216_9990" title="【国際局】国際政党連携の新たな一歩へ――第2回「党外交推進本部」を開催" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://cdp-japan.jp/news/20251216_9990">cdp-japan.jp</a></cite></p>

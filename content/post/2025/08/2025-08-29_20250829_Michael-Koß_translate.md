@@ -5,7 +5,8 @@ updated: 2025-08-29T17:47:56+09:00
 url: https://nisaki.hatenablog.jp/entry/2025/08/29/174756
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398567486548
 author: Nisaki
-edited: 2025-08-29T17:50:31+09:00---
+edited: 2025-08-29T17:50:31+09:00
+---
 
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.bpb.de%2Fshop%2Fzeitschriften%2Fapuz%2Fparteiendemokratie-2025%2F563418%2Fabschied-von-den-allerweltsparteien%2F" title="Abschied von den Allerweltsparteien?" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.bpb.de/shop/zeitschriften/apuz/parteiendemokratie-2025/563418/abschied-von-den-allerweltsparteien/">www.bpb.de</a></cite></p>
 <h3>ありふれた政党との別れ？　その前提が失われた後の、中道の大衆政党（ミヒャエル・コス）</h3>

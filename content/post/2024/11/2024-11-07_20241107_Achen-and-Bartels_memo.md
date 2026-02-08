@@ -5,7 +5,8 @@ updated: 2024-11-07T11:24:02+09:00
 url: https://nisaki.hatenablog.jp/entry/2024/11/07/112402
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398302091289
 author: Nisaki
-edited: 2025-07-20T21:51:18+09:00---
+edited: 2025-07-20T21:51:18+09:00
+---
 
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fpress.princeton.edu%2Fbooks%2Fhardcover%2F9780691169446%2Fdemocracy-for-realists" title="Democracy for Realists" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://press.princeton.edu/books/hardcover/9780691169446/democracy-for-realists">press.princeton.edu</a></cite></p>
 <p>LUCAS, J., SHEFFER, L., LOEWEN, P. J., WALGRAVE, S., SOONTJENS, K., AMSALEM, E., … VARONE, F. (2024). Politicians’ Theories of Voting Behavior. American Political Science Review, 1–18.<br />https://doi.org/10.1017/S0003055424001060</p>

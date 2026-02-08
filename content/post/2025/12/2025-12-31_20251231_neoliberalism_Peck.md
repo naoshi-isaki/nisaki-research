@@ -5,7 +5,8 @@ updated: 2025-12-31T23:44:58+09:00
 url: https://nisaki.hatenablog.jp/entry/2025/12/31/234458
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-17179246901338911802
 author: Nisaki
-edited: 2025-12-31T23:50:51+09:00---
+edited: 2025-12-31T23:50:51+09:00
+---
 
 <p>Peck, J. (2023). Explaining (with) neoliberalism. In <em>Neoliberalism and Education</em> (pp. 17-42). Routledge.</p>
 <ol>
