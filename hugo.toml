@@ -3,14 +3,25 @@ languageCode = 'ja-jp'
 title = 'Naoshi Isaki Blog'
 theme = 'PaperMod'
 
-[frontmatter]
-date = ["date", "publishDate", "lastmod"]
-
+# 1. HTMLタグ（iframeやpタグ）を許可する設定
 [markup.goldmark.renderer]
 unsafe = true
 
+# 2. 日付データの読み込み設定（並べ替えの予備として）
+[frontmatter]
+date = ["date", "publishDate", "lastmod"]
+
+# 3. 並べ替えのルール：タイトル順に固定
+# これにより /20231030re などのタイトル文字列順に並びます
+[list]
+sortFields = ["Title"]
+
+# 4. PaperModテーマの詳細設定
 [params]
-    showFullTextContent = false
-    # 記事一覧で日付を表示する設定
-    ShowReadingTime = true
-    ShowPostNavLinks = true
+showFullTextContent = false
+ShowReadingTime = true
+ShowPostNavLinks = true
+# 検索エンジンにインデックスされやすくする設定
+ShowBreadCrumbs = true
+# 記事一覧の並び順に影響を与えるパラメータ
+mainSections = ["post"]
