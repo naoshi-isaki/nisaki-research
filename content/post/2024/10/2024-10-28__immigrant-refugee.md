@@ -8,6 +8,7 @@ author: Nisaki
 edited: 2024-10-28T00:41:23+09:00
 draft: true
 ---
+
 <p>Giesselmann, M., Brady, D., &amp; Naujoks, T. (2024). The increase in refugees to Germany and exclusionary beliefs and behaviors. American Journal of Sociology.<br /><a href="https://doi.org/10.1086/731833" target="_blank">https://doi.org/10.1086/731833</a></p>
 <blockquote>
 <p>2015年から16年にかけて、ドイチE��は難民�E急激な増加が論議を呼んだ、Eこ�E増加は、�E有化、脅威、接触がどのように移民と民族言語的異質性の結果を形成するかを�E析するため�Eユニ�Eクな梁E��となる、EドイチE�E社会経済パネルと難民シェアに関する地方区レベルの行政チE�Eタを用ぁE��、Eつの排除皁E��念と行動における個人冁E��地区冁E�E変化に革新皁E��焦点を当てる、E脁E��理論と接触琁E��を統合しつつ、�E有化琁E��とは矛盾する2つのレベルの横断皁E��プロセスを実証した、E全国皁E��難民�E割合が増加するにつれて、移民に対する懸念と極右政党�E支持が増加した、Eしかし、地区レベルの難民シェアは、移民に対する懸念と極右政党支持を有意に減少させた、Eまた、地区レベルの難民比率の上�Eは、社会的結束、信頼、屁E��地の移動、主観皁E�E平税率に関する懸念とは関連してぁE��ぁE��E難民�E少なぁE��区が�E国レベルの脁E��を牽引する一方で、地区レベルの難民シェアの上�Eは、排外的な信念めE��動を減少させるか、E��めなぁE��E/p>

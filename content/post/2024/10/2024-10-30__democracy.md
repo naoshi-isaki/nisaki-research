@@ -8,6 +8,7 @@ author: Nisaki
 edited: 2024-10-31T10:06:49+09:00
 draft: true
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnote.com%2Fshintoyo%2Fn%2Fn0e7550f53299" title="「民主主義�E�デモクラシー�E�」�E定義につぁE���E�shintoyo" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

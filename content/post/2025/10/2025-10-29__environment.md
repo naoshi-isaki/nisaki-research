@@ -8,6 +8,7 @@ author: Nisaki
 edited: 2025-10-29T22:59:20+09:00
 draft: true
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOGN160190W5A011C2000000%2F" title="米民主党、それでも降ろさぬ気候変動の旗　Z世代獲得へ�E�急が�E回れ�E� - 日本経済新聁E class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

@@ -8,6 +8,7 @@ author: Nisaki
 edited: 2025-10-01T15:45:10+09:00
 draft: true
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.illiberalism.org%2Fwhat-mainstream-parties-and-media-should-learn-from-the-dutch-extreme-right-riots%2F" title="What Mainstream Parties and Media Should Learn from the Dutch Extreme-Right Riots illiberalism.org |" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

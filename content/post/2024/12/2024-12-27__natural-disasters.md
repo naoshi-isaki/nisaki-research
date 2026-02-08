@@ -8,6 +8,7 @@ author: Nisaki
 edited: 2024-12-27T23:06:08+09:00
 draft: true
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fcepr.org%2Fvoxeu%2Fcolumns%2Fexperiencing-natural-disasters-increases-partisan-disagreement-climate-change" title="Experiencing natural disasters increases partisan disagreement on climate change" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

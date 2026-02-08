@@ -8,6 +8,7 @@ author: Nisaki
 edited: 2024-12-13T09:23:05+09:00
 draft: true
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fedition.cnn.com%2F2024%2F12%2F09%2Fus%2Fpolarization-merriam-websters-word-of-the-year-is-2024-in-a-nutshell%2Findex.html" title="
 Polarization: Merriam-Webster’s word of year is 2024 in a nutshell | CNN" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 

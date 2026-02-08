@@ -8,6 +8,7 @@ author: Nisaki
 edited: 2023-11-28T21:51:53+09:00
 draft: true
 ---
+
 <blockquote>
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fdigital.asahi.com%2Farticles%2FASRBZ3JWJRBWUCVL003.html" title="「エビデンス」がなぁE��駁E��ですか?　数値がすくい取れなぁE��琁E��は�E�朝日新聞デジタル" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 

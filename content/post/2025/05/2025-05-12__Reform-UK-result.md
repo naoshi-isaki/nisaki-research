@@ -8,6 +8,7 @@ author: Nisaki
 edited: 2025-05-12T03:25:08+09:00
 draft: true
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.jetro.go.jp%2Fbiznews%2F2025%2F05%2F11f98f70fcf58240.html" title="地方議会選で右派・リフォームUKが躍進、E大政党�E議席大幁E��E英国) | ビジネス短信 ―ジェトロの海外ニュース" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

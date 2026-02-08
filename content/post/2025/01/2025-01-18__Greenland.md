@@ -8,6 +8,7 @@ author: Nisaki
 edited: 2025-01-18T01:43:13+09:00
 draft: true
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.politico.com%2Fnews%2Fmagazine%2F2025%2F01%2F16%2Fspiritual-case-greenland-trump-00198848" title="The Spiritual Case for Greenland" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

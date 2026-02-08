@@ -8,6 +8,7 @@ author: Nisaki
 edited: 2024-10-22T00:30:20+09:00
 draft: true
 ---
+
 <p>Democratization, Volume 31, Issue 4 (2024)<br /><a href="https://www.tandfonline.com/toc/fdem20/31/4" target="_blank">https://www.tandfonline.com/toc/fdem20/31/4</a></p>
 <p>Ridge, H. M. (2023). The 
 d-word: surveying democracy in America. Democratization, 31(4), 852 E70. https://doi.org/10.1080/13510347.2023.2284279</p>

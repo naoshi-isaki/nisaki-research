@@ -8,6 +8,7 @@ author: Nisaki
 edited: 2024-11-02T11:01:01+09:00
 draft: true
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.populismstudies.org%2Fthe-role-of-mainstream-parties-in-the-success-of-radical-right-populists%2F" title="The Role of Mainstream Parties in the Success of Radical Right Populists  - ECPS" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

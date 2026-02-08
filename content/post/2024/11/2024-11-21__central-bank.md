@@ -8,6 +8,7 @@ author: Nisaki
 edited: 2024-11-21T21:31:23+09:00
 draft: true
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.vox.com%2Fdonald-trump%2F386048%2Ftrump-federal-reserve-powell-interest-rates-congress-inflation" title="Trump says he wants to influence interest rates. Can he?" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

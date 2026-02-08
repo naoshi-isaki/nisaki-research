@@ -8,6 +8,7 @@ author: Nisaki
 edited: 2025-06-19T03:20:35+09:00
 draft: true
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Flink.springer.com%2Fcollections%2Fjahijfcadg" title="Twenty Years of British 
 Politics: Continuity, Change, and Crisis" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 

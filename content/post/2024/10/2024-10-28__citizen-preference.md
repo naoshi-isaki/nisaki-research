@@ -8,6 +8,7 @@ author: Nisaki
 edited: 2024-12-19T11:00:01+09:00
 draft: true
 ---
+
 <p>Wüest, R., Helfer, L., and Varone, F. (2024). Shared Class, Shared Opinion? Policy Preference Congruence Between Citizens and Legislators. Swiss Political Science Review.<br /><a href="https://doi.org/10.1111/spsr.12637" target="_blank">https://doi.org/10.1111/spsr.12637</a></p>
 <blockquote>
 <p>最近�E研究では、�E進民主主義国の政策立案老E��政策結果は、裕福でなぁE��民や労働老E��級�E選好に偏ってぁE��ことが示されてぁE��、Eこ�Eような実質皁E��代表の不平等�E琁E��の一つは、ほとんどの政策立案老E�E身が裕福であることかもしれなぁE��E本論文では、議員と市民�E政策選好の一致に、E��層皁E��景の共有が及ぼす影響を探る、Eそ�Eために、スイスの市民と現役議員を対象に実施した調査のオリジナルチE�Eタを用ぁE��、E社会階層間で意見�E違いが見られる6つの経済�E福祉政策案に焦点を当てた、E議員の意見と市民�E意見を一対多�E関係でマッチングさせると、少なくともいくつか�E政策提案につぁE��は、富裕層よりも低所得層の方が社会階層がより重要であることがわかる、E/p>

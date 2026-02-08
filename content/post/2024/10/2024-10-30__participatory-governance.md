@@ -8,6 +8,7 @@ author: Nisaki
 edited: 2024-10-30T12:49:08+09:00
 draft: true
 ---
+
 <p>Bezerra, C. de P. (2022). Why do political parties promote participatory governance? The Brazilian Workers EParty case. Critical Policy Studies, 16(2), 181 E03. https://doi.org/10.1080/19460171.2022.2027256</p>
 <blockquote>
 <p>本稿では、現職政党が参加型ガバナンスのイノ�Eーションを生み出し、推進する動機を提示する、Eそ�Eために、ブラジル労働老E�E�E�ET-Partido dos Trabalhadores�E��Eケースを�E析する、EPTによる参加型ガバナンスの推進は、イチE��ロギー皁E��益と実際皁E��益�E絁E��合わせであると主張する、EイチE��ロギー皁E��は、PTは参加と再�E配政策への強ぁE��ミットメントを持つ草�E根社会運動によって設立された、E実利皁E��側面では、国家と社会�E相互作用チャネルの多重化が、�Eの社会的統治力、つまり市民社会絁E���E支持を強化し、�Eの政治アジェンダを承認するよぁE��会への圧力と動員を生み出す、Eこ�E関係�E、政策選好が類似してぁE��限り、市民社会にとって相互に有益である、Eこ�E刁E��は、リオ・グランチE�Eド�Eスル州とブラジル連邦政府とぁE��2つの異なる政府レベルにおけるPTの行政を比輁E��た、詳細なプロセス・トレーシングに基づぁE��ぁE��、E/p>

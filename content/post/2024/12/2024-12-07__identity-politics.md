@@ -8,6 +8,7 @@ author: Nisaki
 edited: 2024-12-07T08:31:51+09:00
 draft: true
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fecon101.jp%2Fhow-steve-bannon-baited-the-american-left-into-overplaying-its-hand%2F" title="ジョセフ�Eヒ�Eス「文化政治はなぜ生き残り続け、失敗し続ける�Eか」！E024年11朁E5日�E�E class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

@@ -8,6 +8,7 @@ author: Nisaki
 edited: 2024-10-15T15:52:40+09:00
 draft: true
 ---
+
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fblogs.lse.ac.uk%2Fimpactofsocialsciences%2F2024%2F05%2F07%2Fshould-we-stop-using-the-word-stakeholder-in-research%2F" title="Should we stop using the word  Etakeholder Ein research?" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
 display: block; 
 width: 100%; 

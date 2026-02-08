@@ -8,6 +8,7 @@ author: Nisaki
 edited: 2024-10-31T10:10:39+09:00
 draft: true
 ---
+
 <p>Luo, Z., Przeworski, A., and Zhu, H. (2024). Sustaining Democracy under the Shadow of Force.<br /><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5001667" target="_blank">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5001667</a></p>
 <p><a href="https://x.com/AdamPrzeworski/status/1851027616834224339">https://x.com/AdamPrzeworski/status/1851027616834224339</a></p>
 <blockquote>

@@ -8,6 +8,7 @@ author: Nisaki
 edited: 2025-10-06T12:29:28+09:00
 draft: true
 ---
+
 <p>Maes, B., <span style="
 color: #d32f2f;">Walgrave, S.</span>, Verleyen, E., Varone, F., Rasmussen, A., &amp; Persson, M. (2025). What matters more to 
 politicians: the quantity or quality of public opinion signals?. <em>West European Politics</em>, 1-27.</p>
