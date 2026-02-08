@@ -6,7 +6,8 @@ url: https://nisaki.hatenablog.jp/entry/2025/10/06/122928
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802888565276916855
 author: Nisaki
 edited: 2025-10-06T12:29:28+09:00
-draft: true---
+draft: true
+---
 
 <p>Maes, B., <span style="color: #d32f2f;">Walgrave, S.</span>, Verleyen, E., Varone, F., Rasmussen, A., &amp; Persson, M. (2025). What matters more to politicians: the quantity or quality of public opinion signals?. <em>West European Politics</em>, 1-27.</p>
 <blockquote>

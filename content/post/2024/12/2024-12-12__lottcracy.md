@@ -6,7 +6,8 @@ url: https://nisaki.hatenablog.jp/entry/2024/12/12/183525
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398311076342
 author: Nisaki
 edited: 2024-12-12T18:35:25+09:00
-draft: true---
+draft: true
+---
 
 <p>Umbers, L. M. (2021). Against Lottocracy. European Journal of Political Theory, 20(2), 312-334. https://doi.org/10.1177/1474885118783602</p>
 <blockquote>

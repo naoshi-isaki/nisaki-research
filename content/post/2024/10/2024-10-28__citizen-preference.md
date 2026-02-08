@@ -6,7 +6,8 @@ url: https://nisaki.hatenablog.jp/entry/2024/12/19/110001
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398299474548
 author: Nisaki
 edited: 2024-12-19T11:00:01+09:00
-draft: true---
+draft: true
+---
 
 <p>Wüest, R., Helfer, L., and Varone, F. (2024). Shared Class, Shared Opinion? Policy Preference Congruence Between Citizens and Legislators. Swiss Political Science Review.<br /><a href="https://doi.org/10.1111/spsr.12637" target="_blank">https://doi.org/10.1111/spsr.12637</a></p>
 <blockquote>

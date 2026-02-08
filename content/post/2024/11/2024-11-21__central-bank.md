@@ -6,7 +6,8 @@ url: https://nisaki.hatenablog.jp/entry/2024/11/21/213123
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398305738867
 author: Nisaki
 edited: 2024-11-21T21:31:23+09:00
-draft: true---
+draft: true
+---
 
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.vox.com%2Fdonald-trump%2F386048%2Ftrump-federal-reserve-powell-interest-rates-congress-inflation" title="Trump says he wants to influence interest rates. Can he?" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.vox.com/donald-trump/386048/trump-federal-reserve-powell-interest-rates-congress-inflation">www.vox.com</a></cite></p>
 <p>Gavin, M., &amp; Manger, M. (2023). Populism and De Facto Central Bank Independence. Comparative Political Studies, 56(8), 1189-1223.</p>

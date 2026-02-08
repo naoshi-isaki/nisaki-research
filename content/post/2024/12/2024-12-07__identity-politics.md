@@ -6,7 +6,8 @@ url: https://nisaki.hatenablog.jp/entry/2024/12/07/083151
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398309596413
 author: Nisaki
 edited: 2024-12-07T08:31:51+09:00
-draft: true---
+draft: true
+---
 
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fecon101.jp%2Fhow-steve-bannon-baited-the-american-left-into-overplaying-its-hand%2F" title="ジョセフ・ヒース「文化政治はなぜ生き残り続け、失敗し続けるのか」（2024年11月15日）" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://econ101.jp/how-steve-bannon-baited-the-american-left-into-overplaying-its-hand/">econ101.jp</a></cite></p>
 <p>---</p>

@@ -6,7 +6,8 @@ url: https://nisaki.hatenablog.jp/entry/2024/10/28/004123
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398299470716
 author: Nisaki
 edited: 2024-10-28T00:41:23+09:00
-draft: true---
+draft: true
+---
 
 <p>Giesselmann, M., Brady, D., &amp; Naujoks, T. (2024). The increase in refugees to Germany and exclusionary beliefs and behaviors. American Journal of Sociology.<br /><a href="https://doi.org/10.1086/731833" target="_blank">https://doi.org/10.1086/731833</a></p>
 <blockquote>

@@ -6,7 +6,8 @@ url: https://nisaki.hatenablog.jp/entry/2024/12/16/215122
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398312151955
 author: Nisaki
 edited: 2024-12-16T21:51:22+09:00
-draft: true---
+draft: true
+---
 
 <p>Streeck, W. (2024). A matter of state: The politics of German anti-anti-Semitism. European Journal of Social Theory, 0(0).<br />https://doi.org/10.1177/13684310241300838</p>
 <p>Salas‐Díaz, R., &amp; Young, K. L. (2024). Where did the global elite go to school? Hierarchy, Harvard, home and hegemony. Global Networks, e12509. https://doi.org/10.1111/glob.12509</p>

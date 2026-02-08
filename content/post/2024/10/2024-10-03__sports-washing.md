@@ -6,7 +6,8 @@ url: https://nisaki.hatenablog.jp/entry/2025/05/02/150407
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802340630911021445
 author: Nisaki
 edited: 2025-05-02T15:04:07+09:00
-draft: true---
+draft: true
+---
 
 <p> </p>
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.journalofdemocracy.org%2Fonline-exclusive%2Fhow-dictators-use-sports-to-win-friends-and-influence-people%2F" title="How Dictators Use Sports to Win Friends and Influence People | Journal of Democracy" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.journalofdemocracy.org/online-exclusive/how-dictators-use-sports-to-win-friends-and-influence-people/">www.journalofdemocracy.org</a></cite></p>

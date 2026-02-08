@@ -6,7 +6,8 @@ url: https://nisaki.hatenablog.jp/entry/2024/10/31/100649
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398300076985
 author: Nisaki
 edited: 2024-10-31T10:06:49+09:00
-draft: true---
+draft: true
+---
 
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fnote.com%2Fshintoyo%2Fn%2Fn0e7550f53299" title="「民主主義（デモクラシー）」の定義について｜shintoyo" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://note.com/shintoyo/n/n0e7550f53299">note.com</a></cite></p>
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja">

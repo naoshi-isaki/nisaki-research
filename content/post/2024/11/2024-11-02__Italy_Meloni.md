@@ -6,7 +6,8 @@ url: https://nisaki.hatenablog.jp/entry/2024/11/02/110101
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398300800891
 author: Nisaki
 edited: 2024-11-02T11:01:01+09:00
-draft: true---
+draft: true
+---
 
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.populismstudies.org%2Fthe-role-of-mainstream-parties-in-the-success-of-radical-right-populists%2F" title="The Role of Mainstream Parties in the Success of Radical Right Populists  - ECPS" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.populismstudies.org/the-role-of-mainstream-parties-in-the-success-of-radical-right-populists/">www.populismstudies.org</a></cite></p>
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.illiberalism.org%2Fitalys-fascist-heirs-the-brothers-of-italy-under-giorgia-meloni%2F" title="Italy’s Fascist Heirs: The Brothers of Italy under Giorgia Meloni | illiberalism.org" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.illiberalism.org/italys-fascist-heirs-the-brothers-of-italy-under-giorgia-meloni/">www.illiberalism.org</a></cite></p>

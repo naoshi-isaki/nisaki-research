@@ -6,7 +6,8 @@ url: https://nisaki.hatenablog.jp/entry/2025/10/29/225920
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-17179246901306880894
 author: Nisaki
 edited: 2025-10-29T22:59:20+09:00
-draft: true---
+draft: true
+---
 
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.nikkei.com%2Farticle%2FDGXZQOGN160190W5A011C2000000%2F" title="米民主党、それでも降ろさぬ気候変動の旗　Z世代獲得へ｢急がば回れ｣ - 日本経済新聞" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.nikkei.com/article/DGXZQOGN160190W5A011C2000000/">www.nikkei.com</a></cite></p>
 <p>Hilmar, T. (2025). Cassandra from the far right: how the German and Austrian populist radical right links climate skepticism with economic issues. Environmental Politics, 1-30.<br />https://doi.org/10.1080/09644016.2025.2560188</p>

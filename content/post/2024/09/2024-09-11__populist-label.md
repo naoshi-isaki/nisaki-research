@@ -6,7 +6,8 @@ url: https://nisaki.hatenablog.jp/entry/2024/09/11/014056
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802340630905393367
 author: Nisaki
 edited: 2024-09-11T01:40:56+09:00
-draft: true---
+draft: true
+---
 
 <p>Malkopoulou, A., &amp; Moffitt, B. (2023). How not to respond to populism. Comparative European Politics, 21(6), 848-865.<br /><a href="https://doi.org/10.1057/s41295-023-00341-9" target="_blank">https://doi.org/10.1057/s41295-023-00341-9</a></p>
 <p> </p>

@@ -6,7 +6,8 @@ url: https://nisaki.hatenablog.jp/entry/2023/11/28/215153
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6801883189062462765
 author: Nisaki
 edited: 2023-11-28T21:51:53+09:00
-draft: true---
+draft: true
+---
 
 <blockquote>
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fdigital.asahi.com%2Farticles%2FASRBZ3JWJRBWUCVL003.html" title="「エビデンス」がないと駄目ですか?　数値がすくい取れない真理とは：朝日新聞デジタル" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://digital.asahi.com/articles/ASRBZ3JWJRBWUCVL003.html">digital.asahi.com</a></cite></p>

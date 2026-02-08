@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "entries/2023/10/2023-10-30_20231029.md",
+                "file": "content/post/2023/10/2023-10-30_20231029.md",
                 "mode": "source",
                 "source": false
               },
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "true---",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
               "title": "ブックマーク"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "entries/2023/10/2023-10-30_20231029.md",
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2023-10-30_20231029へのバックリンク"
+              "title": "Welcomeへのバックリンク"
             }
           },
           {
@@ -203,8 +204,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "f140ca02879fa5ea",
+  "active": "5ba8ff307c58f957",
   "lastOpenFiles": [
+    "content/post/2023/10/2023-10-30_20231029.md",
     "entries/2026/01/2026-01-18_■.md",
     "entries/2026/01/2026-01-18__centre.md",
     "entries/2025/12/2025-12-31_20251231_neoliberalism_Peck.md",
@@ -230,7 +232,6 @@
     "entries/2025/12/2025-12-01_20251201_UK.md",
     "entries/2025/11/2025-11-29_20251129_populism.md",
     "entries/2025/11/2025-11-23_20251122_Fascism.md",
-    "entries/2025/11/2025-11-18_20251118_Ikemoto_memo.md",
     "entries/2026/01",
     "entries/2025/12",
     "entries/2025/11",

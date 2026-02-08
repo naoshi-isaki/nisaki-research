@@ -6,7 +6,8 @@ url: https://nisaki.hatenablog.jp/entry/2025/06/19/032035
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398479987475
 author: Nisaki
 edited: 2025-06-19T03:20:35+09:00
-draft: true---
+draft: true
+---
 
 <p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Flink.springer.com%2Fcollections%2Fjahijfcadg" title="Twenty Years of British Politics: Continuity, Change, and Crisis" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://link.springer.com/collections/jahijfcadg">link.springer.com</a></cite></p>
 <p>Dommett, K. (2025). The ‘datafication’of campaigning in British party politics. British Politics, 1-18.<br />https://doi.org/10.1057/s41293-025-00285-6</p>

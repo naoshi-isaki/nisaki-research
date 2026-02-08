@@ -6,7 +6,8 @@ url: https://nisaki.hatenablog.jp/entry/2024/10/30/124908
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398300080890
 author: Nisaki
 edited: 2024-10-30T12:49:08+09:00
-draft: true---
+draft: true
+---
 
 <p>Bezerra, C. de P. (2022). Why do political parties promote participatory governance? The Brazilian Workers’ Party case. Critical Policy Studies, 16(2), 181–203. https://doi.org/10.1080/19460171.2022.2027256</p>
 <blockquote>

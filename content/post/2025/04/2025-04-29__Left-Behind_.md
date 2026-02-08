@@ -6,7 +6,8 @@ url: https://nisaki.hatenablog.jp/entry/2025/04/29/031011
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398390509654
 author: Nisaki
 edited: 2025-04-29T03:10:11+09:00
-draft: true---
+draft: true
+---
 
 <p>Ciccolini, G. (2025). Who Is Left Behind? Economic Status Loss and Populist Radical Right Voting. Perspectives on Politics, 1–18.<br />https://doi.org/10.1017/S1537592724002858</p>
 <blockquote>
