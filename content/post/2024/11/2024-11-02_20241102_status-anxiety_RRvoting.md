@@ -3,7 +3,6 @@
 title: 20241102/status-anxiety_RRvoting
 published: 2024-11-02
 updated: 2024-11-02T12:06:55+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/11/02/120655
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398300814733
 author: Nisaki
 edited: 2024-11-05T11:40:59+09:00

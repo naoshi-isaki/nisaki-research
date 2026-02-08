@@ -3,7 +3,6 @@
 title: /van-Kessel-and-Zaslove
 published: 2025-10-01
 updated: 2025-10-01T15:45:10+09:00
-url: https://nisaki.hatenablog.jp/entry/2025/10/01/154510
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802888565266362014
 author: Nisaki
 edited: 2025-10-01T15:45:10+09:00

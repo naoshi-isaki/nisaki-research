@@ -3,7 +3,6 @@
 title: /citizen-preference
 published: 2024-10-28
 updated: 2024-12-19T11:00:01+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/12/19/110001
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398299474548
 author: Nisaki
 edited: 2024-12-19T11:00:01+09:00

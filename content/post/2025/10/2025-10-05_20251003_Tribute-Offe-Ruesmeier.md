@@ -3,7 +3,6 @@
 title: 20251003/Tribute-Offe-Ruesmeier
 published: 2025-10-05
 updated: 2025-10-05T23:12:26+09:00
-url: https://nisaki.hatenablog.jp/entry/2025/10/05/231226
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802888565276017137
 author: Nisaki
 edited: 2025-10-05T23:12:55+09:00

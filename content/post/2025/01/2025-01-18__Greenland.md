@@ -3,7 +3,6 @@
 title: /Greenland
 published: 2025-01-18
 updated: 2025-01-18T01:43:13+09:00
-url: https://nisaki.hatenablog.jp/entry/2025/01/18/014313
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398320968655
 author: Nisaki
 edited: 2025-01-18T01:43:13+09:00

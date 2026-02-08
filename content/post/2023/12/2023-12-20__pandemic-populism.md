@@ -3,7 +3,6 @@
 title: /pandemic-populism
 published: 2023-12-20
 updated: 2023-12-20T02:17:46+09:00
-url: https://nisaki.hatenablog.jp/entry/2023/12/20/021746
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6801883189068232489
 author: Nisaki
 edited: 2023-12-21T11:30:51+09:00

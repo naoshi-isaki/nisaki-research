@@ -3,7 +3,6 @@
 title: 20241022+/UK-election-result-analysis
 published: 2024-10-22
 updated: 2024-10-22T16:34:58+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/10/22/163458
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398298066103
 author: Nisaki
 edited: 2024-12-07T08:43:34+09:00

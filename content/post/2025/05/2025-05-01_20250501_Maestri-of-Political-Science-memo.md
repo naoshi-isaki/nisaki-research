@@ -3,7 +3,6 @@
 title: 20250501/Maestri-of-Political-Science-memo
 published: 2025-05-01
 updated: 2025-05-01T18:01:47+09:00
-url: https://nisaki.hatenablog.jp/entry/2025/05/01/180147
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398398302222
 author: Nisaki
 edited: 2025-05-01T18:02:16+09:00

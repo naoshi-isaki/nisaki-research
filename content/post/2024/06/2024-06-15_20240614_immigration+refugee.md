@@ -3,7 +3,6 @@
 title: 20240614/immigration+refugee
 published: 2024-06-15
 updated: 2024-06-15T00:17:48+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/06/15/001748
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6801883189114363846
 author: Nisaki
 edited: 2024-06-15T00:58:25+09:00

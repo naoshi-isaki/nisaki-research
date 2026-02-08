@@ -3,7 +3,6 @@
 title: /Polarization
 published: 2024-12-13
 updated: 2024-12-13T09:23:05+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/12/13/092305
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398311207498
 author: Nisaki
 edited: 2024-12-13T09:23:05+09:00

@@ -3,7 +3,6 @@
 title: 20241029/mainstream-populism
 published: 2024-10-31
 updated: 2024-10-30T00:00:00+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/10/30/000000
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398299810661
 author: Nisaki
 edited: 2024-10-31T10:02:56+09:00

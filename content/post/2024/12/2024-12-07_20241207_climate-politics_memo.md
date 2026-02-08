@@ -3,7 +3,6 @@
 title: 20241207/climate-politics/memo
 published: 2024-12-07
 updated: 2024-12-07T08:06:00+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/12/07/080600
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398309592484
 author: Nisaki
 edited: 2024-12-07T08:06:00+09:00

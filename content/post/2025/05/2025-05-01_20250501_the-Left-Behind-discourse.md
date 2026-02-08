@@ -3,7 +3,6 @@
 title: 20250501/the-Left-Behind-discourse
 published: 2025-05-01
 updated: 2025-05-01T18:13:55+09:00
-url: https://nisaki.hatenablog.jp/entry/2025/05/01/181355
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398398341775
 author: Nisaki
 edited: 2025-05-01T18:13:55+09:00

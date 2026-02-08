@@ -3,7 +3,6 @@
 title: 20241107/Achen-and-Bartels/memo
 published: 2024-11-07
 updated: 2024-11-07T11:24:02+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/11/07/112402
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398302091289
 author: Nisaki
 edited: 2025-07-20T21:51:18+09:00

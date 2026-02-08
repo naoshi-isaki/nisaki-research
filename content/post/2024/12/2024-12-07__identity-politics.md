@@ -3,7 +3,6 @@
 title: /identity-politics
 published: 2024-12-07
 updated: 2024-12-07T08:31:51+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/12/07/083151
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398309596413
 author: Nisaki
 edited: 2024-12-07T08:31:51+09:00

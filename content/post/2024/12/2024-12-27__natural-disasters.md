@@ -3,7 +3,6 @@
 title: /natural-disasters
 published: 2024-12-27
 updated: 2024-12-27T23:06:08+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/12/27/230608
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398315162016
 author: Nisaki
 edited: 2024-12-27T23:06:08+09:00

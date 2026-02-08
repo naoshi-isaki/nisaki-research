@@ -3,7 +3,6 @@
 title: /populist-label
 published: 2024-09-11
 updated: 2024-09-11T01:40:56+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/09/11/014056
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802340630905393367
 author: Nisaki
 edited: 2024-09-11T01:40:56+09:00

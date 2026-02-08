@@ -3,7 +3,6 @@
 title: 20241126/geography-RRvoting
 published: 2024-11-07
 updated: 2024-11-27T00:00:00+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/12/07/111736
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398302095954
 author: Nisaki
 edited: 2024-12-07T11:17:36+09:00

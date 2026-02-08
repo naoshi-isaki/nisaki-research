@@ -3,7 +3,6 @@
 title: /Left-Behind?
 published: 2025-04-29
 updated: 2025-04-29T03:10:11+09:00
-url: https://nisaki.hatenablog.jp/entry/2025/04/29/031011
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398390509654
 author: Nisaki
 edited: 2025-04-29T03:10:11+09:00

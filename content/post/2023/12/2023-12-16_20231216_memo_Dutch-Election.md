@@ -3,7 +3,6 @@
 title: 20231216/memo/Dutch-Election
 published: 2023-12-16
 updated: 2023-12-16T08:32:30+09:00
-url: https://nisaki.hatenablog.jp/entry/2023/12/16/083230
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6801883189067214784
 author: Nisaki
 edited: 2023-12-20T02:22:11+09:00

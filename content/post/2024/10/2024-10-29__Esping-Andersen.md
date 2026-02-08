@@ -3,7 +3,6 @@
 title: /Esping-Andersen
 published: 2024-10-29
 updated: 2024-10-29T11:28:04+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/10/29/112804
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398299811638
 author: Nisaki
 edited: 2024-10-29T11:28:04+09:00

@@ -3,7 +3,6 @@
 title: /central-bank
 published: 2024-11-21
 updated: 2024-11-21T21:31:23+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/11/21/213123
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398305738867
 author: Nisaki
 edited: 2024-11-21T21:31:23+09:00

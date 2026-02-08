@@ -3,7 +3,6 @@
 title: /Reform-UK-result
 published: 2025-05-12
 updated: 2025-05-12T03:25:08+09:00
-url: https://nisaki.hatenablog.jp/entry/2025/05/12/032508
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398424407115
 author: Nisaki
 edited: 2025-05-12T03:25:08+09:00

@@ -3,7 +3,6 @@
 title: /objectivity
 published: 2023-11-28
 updated: 2023-11-28T21:51:53+09:00
-url: https://nisaki.hatenablog.jp/entry/2023/11/28/215153
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6801883189062462765
 author: Nisaki
 edited: 2023-11-28T21:51:53+09:00

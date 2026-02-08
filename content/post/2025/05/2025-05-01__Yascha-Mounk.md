@@ -3,7 +3,6 @@
 title: /Yascha-Mounk
 published: 2025-05-01
 updated: 2025-05-01T19:39:25+09:00
-url: https://nisaki.hatenablog.jp/entry/2025/05/01/193925
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398398624539
 author: Nisaki
 edited: 2025-05-01T19:39:25+09:00

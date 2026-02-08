@@ -3,7 +3,6 @@
 title: /British-Politics
 published: 2025-06-19
 updated: 2025-06-19T03:20:35+09:00
-url: https://nisaki.hatenablog.jp/entry/2025/06/19/032035
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398479987475
 author: Nisaki
 edited: 2025-06-19T03:20:35+09:00

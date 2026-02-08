@@ -3,7 +3,6 @@
 title: /Italy/Meloni
 published: 2024-11-02
 updated: 2024-11-02T11:01:01+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/11/02/110101
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398300800891
 author: Nisaki
 edited: 2024-11-02T11:01:01+09:00

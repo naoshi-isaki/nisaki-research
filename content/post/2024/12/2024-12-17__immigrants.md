@@ -3,7 +3,6 @@
 title: /immigrants
 published: 2024-12-17
 updated: 2024-12-17T16:25:46+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/12/17/162546
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398312328994
 author: Nisaki
 edited: 2024-12-17T16:25:46+09:00

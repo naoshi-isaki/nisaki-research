@@ -3,7 +3,6 @@
 title: 20241024/Austria/Mudde-Greilinger
 published: 2024-10-24
 updated: 2024-10-24T15:41:13+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/10/24/154113
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398298591680
 author: Nisaki
 edited: 2024-10-24T15:41:13+09:00

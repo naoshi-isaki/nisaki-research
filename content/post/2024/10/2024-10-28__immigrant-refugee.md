@@ -3,7 +3,6 @@
 title: /immigrant-refugee
 published: 2024-10-28
 updated: 2024-10-28T00:41:23+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/10/28/004123
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398299470716
 author: Nisaki
 edited: 2024-10-28T00:41:23+09:00

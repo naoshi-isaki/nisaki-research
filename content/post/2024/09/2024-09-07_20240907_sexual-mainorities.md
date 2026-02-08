@@ -3,7 +3,6 @@
 title: 20240907/sexual-mainorities
 published: 2024-09-07
 updated: 2024-09-07T21:12:53+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/09/07/211253
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802340630904588127
 author: Nisaki
 edited: 2024-09-07T21:12:53+09:00

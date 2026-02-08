@@ -3,7 +3,6 @@
 title: 20250518/the-elite-the-people
 published: 2025-05-18
 updated: 2025-05-18T01:44:10+09:00
-url: https://nisaki.hatenablog.jp/entry/2025/05/18/014410
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398433795073
 author: Nisaki
 edited: 2025-10-30T11:34:15+09:00

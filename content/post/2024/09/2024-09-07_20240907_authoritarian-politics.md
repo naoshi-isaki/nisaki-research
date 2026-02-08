@@ -3,7 +3,6 @@
 title: 20240907/authoritarian-politics
 published: 2024-09-07
 updated: 2024-09-07T17:51:38+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/09/07/175138
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802340630904545574
 author: Nisaki
 edited: 2024-09-07T17:53:58+09:00

@@ -3,7 +3,6 @@
 title: 20251229/Jacobin/Vivek-Chibber
 published: 2025-12-29
 updated: 2025-12-29T13:56:29+09:00
-url: https://nisaki.hatenablog.jp/entry/2025/12/29/135629
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-17179246901337887041
 author: Nisaki
 edited: 2025-12-29T18:40:12+09:00

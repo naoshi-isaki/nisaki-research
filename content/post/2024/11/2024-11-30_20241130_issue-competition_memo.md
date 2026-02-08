@@ -3,7 +3,6 @@
 title: 20241130/issue-competition/memo
 published: 2024-11-30
 updated: 2024-11-30T20:27:35+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/11/30/202735
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398307990424
 author: Nisaki
 edited: 2024-12-19T18:06:49+09:00

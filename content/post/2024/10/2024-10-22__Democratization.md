@@ -3,7 +3,6 @@
 title: /Democratization
 published: 2024-10-22
 updated: 2024-10-22T00:30:20+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/10/22/003020
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398297928566
 author: Nisaki
 edited: 2024-10-22T00:30:20+09:00

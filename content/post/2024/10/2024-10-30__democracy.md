@@ -3,7 +3,6 @@
 title: /democracy
 published: 2024-10-30
 updated: 2024-10-31T10:06:49+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/10/31/100649
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398300076985
 author: Nisaki
 edited: 2024-10-31T10:06:49+09:00

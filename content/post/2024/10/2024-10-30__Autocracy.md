@@ -3,7 +3,6 @@
 title: /Autocracy
 published: 2024-10-30
 updated: 2024-10-31T10:10:39+09:00
-url: https://nisaki.hatenablog.jp/entry/2024/10/31/101039
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398300076784
 author: Nisaki
 edited: 2024-10-31T10:10:39+09:00
