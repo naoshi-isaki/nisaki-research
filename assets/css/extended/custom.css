@@ -1,0 +1,14 @@
+/* 記事本文内のすべてのリンクの斜体を解除 */
+.post-content a {
+    font-style: normal !important;
+}
+
+/* リンクの下に表示される生のURLテキストなどを想定 */
+.post-content p, .post-content span {
+    font-style: normal !important;
+}
+
+/* もし特定のクラス（リンクカードなど）が原因の場合もカバー */
+.post-content {
+    font-style: normal !important;
+}
