@@ -37,6 +37,8 @@ theme = 'PaperMod'
     ShowReadingTime = true
     ShowPostNavLinks = true
     ShowBreadCrumbs = true
+    ShowPaginationNumbers = true
+    paginate = 10
     
     # 記事の並び替え・表示範囲の設定
     mainSections = ["post"]
