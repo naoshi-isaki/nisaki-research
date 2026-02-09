@@ -44,9 +44,13 @@ theme = 'PaperMod'
     mainSections = ["post"]
     sortFields = ["Date", "Title"]
     [frontmatter]
-        date = ["date", "publishDate"]
-        lastmod = ["lastmod"]
+        date = ["published", "date", "publishDate"]
+        lastmod = ["updated", "lastmod"]
 
     # 検索（Fuse.js）の詳細オプション
     # contentをkeysに含めることで、数千件の研究メモから全文検索が可能になります
     fuseOpts = { isCaseSensitive = false, shouldSort = true, location = 0, distance = 1000, threshold = 0.4, minMatchCharLength = 0, keys = ["title", "permalink", "summary", "content"] }
+
+[list]
+    # 日付(published)を優先し、同じならタイトル順にする
+    sortFields = ["Date", "Title"]
