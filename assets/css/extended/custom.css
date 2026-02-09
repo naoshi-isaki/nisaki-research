@@ -12,3 +12,33 @@
 .post-content {
     font-style: normal !important;
 }
+
+:root {
+    /* サイト全体の基本文字サイズ（デフォルトは約18px相当） */
+    --content-gap: 20px;
+    font-size: 16px; 
+}
+
+/* 記事一覧のタイトルサイズを調整 */
+.entry-header h2 {
+    font-size: 20px; /* デフォルトより一回り小さく */
+    line-height: 1.3;
+}
+
+/* 記事一覧の説明文（サマリー）のサイズ */
+.entry-content {
+    font-size: 14px;
+    line-height: 1.5;
+    color: var(--secondary);
+}
+
+/* 個別記事内の本文サイズ */
+.post-content {
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+/* メタ情報（日付・読了時間など）をさらに小さく */
+.post-meta {
+    font-size: 13px;
+}
