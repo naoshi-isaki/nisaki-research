@@ -3,48 +3,45 @@ languageCode = 'ja-jp'
 title = 'Naoshi Isaki Blog'
 theme = 'PaperMod'
 
-# 1. 検索機能を有効にするための出力設定
+# 1. 検索用インデックス（JSON）の生成設定
 [outputs]
-home = ["HTML", "RSS", "JSON"]
+    home = ["HTML", "RSS", "JSON"]
 
-# 2. HTML表示の許可（はてなブログ移行用）
+# 2. はてなブログ由来のHTML表示を許可
 [markup.goldmark.renderer]
-unsafe = true
+    unsafe = true
 
-# 3. タイトル順に並べ替え
-[list]
-sortFields = ["Title"]
-
-# 4. ヘッダーメニューの設定（検索・アーカイブ・タグ）
+# 3. メニュー設定
 [[menu.main]]
-identifier = "search"
-name = "Search"
-url = "search/"
-weight = 10
+    identifier = "search"
+    name = "Search"
+    url = "search/"
+    weight = 10
 
 [[menu.main]]
-identifier = "archives"
-name = "Archives"
-url = "archives/"
-weight = 20
+    identifier = "archives"
+    name = "Archives"
+    url = "archives/"
+    weight = 20
 
 [[menu.main]]
-identifier = "tags"
-name = "Tags"
-url = "tags/"
-weight = 30
+    identifier = "tags"
+    name = "Tags"
+    url = "tags/"
+    weight = 30
 
-# 5. PaperModの詳細設定
+# 4. PaperModの詳細パラメーター
 [params]
-showFullTextContent = false
-ShowReadingTime = true
-ShowPostNavLinks = true
-ShowBreadCrumbs = true
-
-# --- 追加: 並び替えをタイトル順に強制する ---
+    # 表示設定
+    showFullTextContent = false
+    ShowReadingTime = true
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    
+    # 記事の並び替え・表示範囲の設定
     mainSections = ["post"]
-    # タイトル順（昇順）を指定
     sortFields = ["Title"]
 
-# 検索機能のオプション設定
-fuseOpts = { isCaseSensitive = false, shouldSort = true, location = 0, distance = 1000, threshold = 0.4, minMatchCharLength = 0, keys = ["title", "permalink", "summary", "content"] }
+    # 検索（Fuse.js）の詳細オプション
+    # contentをkeysに含めることで、数千件の研究メモから全文検索が可能になります
+    fuseOpts = { isCaseSensitive = false, shouldSort = true, location = 0, distance = 1000, threshold = 0.4, minMatchCharLength = 0, keys = ["title", "permalink", "summary", "content"] }
