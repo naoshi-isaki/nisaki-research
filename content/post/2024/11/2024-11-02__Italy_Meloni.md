@@ -2,61 +2,21 @@
 title: /Italy/Meloni
 published: 2024-11-02
 updated: 2024-11-02T11:01:01+09:00
+url: https://nisaki.hatenablog.jp/entry/2024/11/02/110101
 entry-id: tag:blog.hatena.ne.jp,2013:blog-Nisaki-6801883189054638642-6802418398300800891
 author: Nisaki
 edited: 2024-11-02T11:01:01+09:00
-draft: true
----
+draft: true---
 
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.populismstudies.org%2Fthe-role-of-mainstream-parties-in-the-success-of-radical-right-populists%2F" title="The Role of Mainstream Parties in the Success of Radical Right Populists  - ECPS" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
-display: block; 
-width: 100%; 
-height: 155px; 
-max-width: 500px; 
-margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.populismstudies.org/the-role-of-mainstream-parties-in-the-success-of-radical-right-populists/">www.populismstudies.org</a></cite></p>
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.illiberalism.org%2Fitalys-fascist-heirs-the-brothers-of-italy-under-giorgia-meloni%2F" title="Italy’s Fascist 
-Heirs: The Brothers of Italy under Giorgia Meloni | illiberalism.org" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
-display: block; 
-width: 100%; 
-height: 155px; 
-max-width: 500px; 
-margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.illiberalism.org/italys-fascist-heirs-the-brothers-of-italy-under-giorgia-meloni/">www.illiberalism.org</a></cite></p>
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.illiberalism.org%2Fonly-the-pragmatic-survive-the-meloni-governments-struggle-with-migration%2F" title="Only the Pragmatic 
-Survive: The Meloni Government's Struggle with Migration | illiberalism.org" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
-display: block; 
-width: 100%; 
-height: 155px; 
-max-width: 500px; 
-margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.illiberalism.org/only-the-pragmatic-survive-the-meloni-governments-struggle-with-migration/">www.illiberalism.org</a></cite></p>
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.illiberalism.org%2Ffascism-in-italy-the-hipster-fascists-trying-to-bring-mussolini-back-into-the-mainstream-channel-4-news-2018%2F" title="Fascism in 
-Italy: The Hipster Fascists Trying to Bring Mussolini Back into the Mainstream (Channel 4 News, 2018) | illiberalism.org" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
-display: block; 
-width: 100%; 
-height: 155px; 
-max-width: 500px; 
-margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.illiberalism.org/fascism-in-italy-the-hipster-fascists-trying-to-bring-mussolini-back-into-the-mainstream-channel-4-news-2018/">www.illiberalism.org</a></cite></p>
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.brookings.edu%2Farticles%2Fmelonis-tough-choice-merkel-thatcher-or-mussolini%2F" title="Meloni’s tough 
-choice: Merkel, Thatcher, or Mussolini?" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
-display: block; 
-width: 100%; 
-height: 155px; 
-max-width: 500px; 
-margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.brookings.edu/articles/melonis-tough-choice-merkel-thatcher-or-mussolini/">www.brookings.edu</a></cite></p>
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2024%2Fsep%2F19%2Fshapeshifter-who-is-the-real-giorgia-meloni-italy-prime-minister" title="The 
-shapeshifter: who is the real Giorgia Meloni?" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
-display: block; 
-width: 100%; 
-height: 155px; 
-max-width: 500px; 
-margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.theguardian.com/world/2024/sep/19/shapeshifter-who-is-the-real-giorgia-meloni-italy-prime-minister">www.theguardian.com</a></cite></p>
-<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.politico.eu%2Farticle%2Fthe-mainstreaming-of-giorgia-meloni-italian-election-brothers-of-italy%2F" title="The mainstreaming of Giorgia Meloni" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="
-display: block; 
-width: 100%; 
-height: 155px; 
-max-width: 500px; 
-margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.politico.eu/article/the-mainstreaming-of-giorgia-meloni-italian-election-brothers-of-italy/">www.politico.eu</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.populismstudies.org%2Fthe-role-of-mainstream-parties-in-the-success-of-radical-right-populists%2F" title="The Role of Mainstream Parties in the Success of Radical Right Populists  - ECPS" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.populismstudies.org/the-role-of-mainstream-parties-in-the-success-of-radical-right-populists/">www.populismstudies.org</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.illiberalism.org%2Fitalys-fascist-heirs-the-brothers-of-italy-under-giorgia-meloni%2F" title="Italy’s Fascist Heirs: The Brothers of Italy under Giorgia Meloni | illiberalism.org" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.illiberalism.org/italys-fascist-heirs-the-brothers-of-italy-under-giorgia-meloni/">www.illiberalism.org</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.illiberalism.org%2Fonly-the-pragmatic-survive-the-meloni-governments-struggle-with-migration%2F" title="Only the Pragmatic Survive: The Meloni Government's Struggle with Migration | illiberalism.org" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.illiberalism.org/only-the-pragmatic-survive-the-meloni-governments-struggle-with-migration/">www.illiberalism.org</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.illiberalism.org%2Ffascism-in-italy-the-hipster-fascists-trying-to-bring-mussolini-back-into-the-mainstream-channel-4-news-2018%2F" title="Fascism in Italy: The Hipster Fascists Trying to Bring Mussolini Back into the Mainstream (Channel 4 News, 2018) | illiberalism.org" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.illiberalism.org/fascism-in-italy-the-hipster-fascists-trying-to-bring-mussolini-back-into-the-mainstream-channel-4-news-2018/">www.illiberalism.org</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.brookings.edu%2Farticles%2Fmelonis-tough-choice-merkel-thatcher-or-mussolini%2F" title="Meloni’s tough choice: Merkel, Thatcher, or Mussolini?" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.brookings.edu/articles/melonis-tough-choice-merkel-thatcher-or-mussolini/">www.brookings.edu</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2024%2Fsep%2F19%2Fshapeshifter-who-is-the-real-giorgia-meloni-italy-prime-minister" title="The shapeshifter: who is the real Giorgia Meloni?" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.theguardian.com/world/2024/sep/19/shapeshifter-who-is-the-real-giorgia-meloni-italy-prime-minister">www.theguardian.com</a></cite></p>
+<p><iframe src="https://hatenablog-parts.com/embed?url=https%3A%2F%2Fwww.politico.eu%2Farticle%2Fthe-mainstreaming-of-giorgia-meloni-italian-election-brothers-of-italy%2F" title="The mainstreaming of Giorgia Meloni" class="embed-card embed-webcard" scrolling="no" frameborder="0" style="display: block; width: 100%; height: 155px; max-width: 500px; margin: 10px 0px;" loading="lazy"></iframe><cite class="hatena-citation"><a href="https://www.politico.eu/article/the-mainstreaming-of-giorgia-meloni-italian-election-brothers-of-italy/">www.politico.eu</a></cite></p>
 <p>Newell, J. L. (2023). The Meloni government one year on. Contemporary Italian Politics, 15(4), 389-393.<br />https://doi.org/10.1080/23248823.2023.2272360</p>
-<p>Newell, J. L. (2023). Interpreting the actions of the Meloni government. Contemporary Italian Politics, 15(2), 121 E23.<br />https://doi.org/10.1080/23248823.2023.2199495</p>
+<p>Newell, J. L. (2023). Interpreting the actions of the Meloni government. Contemporary Italian Politics, 15(2), 121–123.<br />https://doi.org/10.1080/23248823.2023.2199495</p>
 <p> </p>
 <p> </p>
 <p> </p>
