@@ -42,7 +42,10 @@ theme = 'PaperMod'
     
     # 記事の並び替え・表示範囲の設定
     mainSections = ["post"]
-    sortFields = ["Title"]
+    sortFields = ["Date", "Title"]
+    [frontmatter]
+        date = ["date", "publishDate"]
+        lastmod = ["lastmod"]
 
     # 検索（Fuse.js）の詳細オプション
     # contentをkeysに含めることで、数千件の研究メモから全文検索が可能になります
