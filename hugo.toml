@@ -40,7 +40,7 @@ theme = 'PaperMod'
 
 [[menu.main]]
     identifier = "new-post"
-    name = "＋新規作成"
+    name = "+New Post"
     # GitHubリポジトリの「post」フォルダ内に新しいファイルを作る画面へ飛ばす
     url = "https://github.com/naoshi-isaki/nisaki-research/new/main/content/post"
     weight = 40
