@@ -8,6 +8,14 @@
     font-style: normal !important;
 }
 
+/* 1件目（Featured Post）だけに背景色をつけて目立たせる */
+.first-post {
+    background: #fdf6e3; /* 薄いベージュ */
+    border-radius: 12px;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
 /* もし特定のクラス（リンクカードなど）が原因の場合もカバー */
 .post-content {
     font-style: normal !important;
