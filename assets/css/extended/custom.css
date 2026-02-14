@@ -8,6 +8,21 @@
     font-style: normal !important;
 }
 
+/* 1ページ目の1件目、および各ページの1枚目のカードに色をつける */
+.first-post, 
+.post-entry:first-of-type {
+    background: #fdf6e3 !important; /* 薄いベージュ */
+    border: 1px solid #eee8d5 !important;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+/* 1ページ目の1件目が特殊レイアウト（枠なし）の場合でも色を強制する */
+.first-post .entry-header h2,
+.first-post .entry-content {
+    /* 以前設定したイタリック解除などもここに反映されます */
+    font-style: normal !important;
+}
+
 /* 記事一覧の「一番上のカード」だけ背景色をつけて強調する */
 .post-entry:first-of-type {
     background: #fdf6e3 !important; /* 薄いベージュ（お好みで変更可） */
