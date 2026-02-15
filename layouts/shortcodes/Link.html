@@ -1,0 +1,9 @@
+<div class="my-4">
+  <a href="{{ .Get 0 }}" target="_blank" rel="noopener" class="flex flex-row items-center rounded-xl bg-neutral-200 dark:bg-neutral-700 shadow-md hover:shadow-lg transition-shadow duration-300 overflow-hidden no-underline border-none" style="max-width: 42rem;">
+    <div class="p-4">
+      <h4 class="mb-1 text-sm font-semibold text-slate-700 dark:text-slate-200">{{ .Get 1 }}</h4>
+      <p class="text-xs text-slate-500 dark:text-slate-400">外部サイト（Researchmap等）へ移動します</p>
+      <span class="text-[10px] text-indigo-500 break-all">{{ .Get 0 }}</span>
+    </div>
+  </a>
+</div>
