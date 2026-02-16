@@ -1,14 +1,13 @@
 <h1 class="post-title">{{ .Title }}</h1>
 
-<div class="post-taxonomies mb-8 flex flex-wrap gap-2">
-  {{ range (.GetTerms "categories") }}
-    <a href="{{ .RelPermalink }}" class="text-xs font-bold px-3 py-1 bg-indigo-50 text-indigo-600 rounded-full border border-indigo-100 no-underline">#{{ .LinkTitle }}</a>
-  {{ end }}
+<div class="post-taxonomies mb-4 flex flex-wrap gap-2">
   {{ range (.GetTerms "tags") }}
-    <a href="{{ .RelPermalink }}" class="text-xs px-3 py-1 bg-slate-100 text-slate-600 rounded-full border border-slate-200 no-underline">{{ .LinkTitle }}</a>
+    <a href="{{ .RelPermalink }}" class="text-xs px-2 py-1 bg-slate-100 text-slate-600 rounded border border-slate-200 no-underline">#{{ .LinkTitle }}</a>
   {{ end }}
 </div>
 
-<div class="post-content prose dark:prose-invert max-w-none">
+<hr class="my-6 opacity-10">
+
+<div class="post-content prose max-w-none">
   {{ .Content }}
 </div>
