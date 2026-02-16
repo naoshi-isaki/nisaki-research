@@ -1,0 +1,26 @@
+{{ $path := .Get 0 }}
+{{ $page := site.GetPage $path }}
+
+{{ if $page }}
+<div class="my-8 flex justify-start">
+  <a href="{{ $page.RelPermalink }}" class="group block overflow-hidden bg-white dark:bg-neutral-800 no-underline" 
+     style="width: 100%; max-width: 650px; border: 2px solid #94a3b8; border-radius: 1rem; box-shadow: none;">
+    <div class="p-5">
+      <div class="flex flex-col gap-1">
+        <span class="text-[10px] font-bold uppercase tracking-widest text-indigo-500 opacity-80">Previous Post</span>
+        <h4 class="text-base font-extrabold text-slate-800 dark:text-slate-100 group-hover:text-indigo-600 transition-colors">
+          {{ $page.Title }}
+        </h4>
+        <p class="mt-1 text-sm text-slate-500 line-clamp-2 dark:text-slate-400">
+          {{ $page.Summary | plainify }}
+        </p>
+      </div>
+      <div class="mt-4 border-t border-slate-100 pt-3 dark:border-slate-700">
+        <span class="text-[10px] text-slate-400 opacity-60">{{ $page.Date.Format "2006-01-02" }}</span>
+      </div>
+    </div>
+  </a>
+</div>
+{{ else }}
+  <p style="color:red;">リンクエラー: {{ $path }} が見つかりません。</p>
+{{ end }}
