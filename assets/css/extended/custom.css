@@ -64,22 +64,31 @@
     font-size: 13px;
 }
 
-/* --- 本文のスタイル調整 --- */
-
-.prose, .prose p {
-    /* 両端揃えを有効にする */
+/* --- 1. 本文の両端揃え（Justify） --- */
+/* 記事本文を包む .prose クラスとその中の p タグを狙い撃ちします */
+.prose p, 
+article p, 
+.post-content p {
     text-align: justify !important;
-    /* 言語に応じた最適な改行ルールを適用 */
     text-justify: inter-character !important;
-    /* 左寄せのベースラインは維持 */
-    margin-left: 0 !important;
+    display: block !important;
 }
 
-/* リンクカード自体に枠線をつける（HTML側で設定しない場合の予備） */
-.my-6 a {
-    border: 1px solid #cbd5e1 !important; /* border-slate-300 相当 */
+/* --- 2. リンクカードの枠線と角丸 --- */
+/* 以前作成した .my-6 の中の a タグを強制的に装飾します */
+div.my-6 a, 
+.my-6 a.group {
+    border: 2px solid #cbd5e1 !important; /* slate-300相当のグレー */
+    border-radius: 1rem !important;      /* 角丸 */
+    display: block !important;
+    text-decoration: none !important;
+    box-sizing: border-box !important;
 }
 
+/* ホバー時の枠線（インディゴ） */
+div.my-6 a:hover {
+    border-color: #6366f1 !important;
+}
 /* 強調したい場合、ホバー時に枠線の色を変える */
 .my-6 a:hover {
     border-color: #6366f1 !important; /* indigo-500 */
