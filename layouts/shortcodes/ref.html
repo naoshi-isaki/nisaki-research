@@ -12,9 +12,9 @@
           {{ $page.Title }}
         </h4>
         <p class="mt-1 text-sm text-slate-500 line-clamp-2 dark:text-slate-400">
-          {{ $page.Summary | plainify }}
+          {{ $page.Summary | plainify | truncate 70 }}
         </p>
-      </div>
+        </div>
       <div class="mt-4 border-t border-slate-100 pt-3 dark:border-slate-700">
         <span class="text-[10px] text-slate-400 opacity-60">{{ $page.Date.Format "2006-01-02" }}</span>
       </div>
