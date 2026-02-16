@@ -64,62 +64,51 @@
     font-size: 13px;
 }
 
-/* --- 1. 本文の両端揃え（Justify） --- */
-/* 記事本文を包む .prose クラスとその中の p タグを狙い撃ちします */
-.prose p, 
-article p, 
-.post-content p {
-    text-align: justify !important;
-    text-justify: inter-character !important;
-    display: block !important;
-}
-
-/* --- 2. リンクカードの枠線と角丸 --- */
-/* --- 本文の両端揃えと行間の最適化 --- */
+/* --- 1. 本文の両端揃え --- */
 .prose p {
     text-align: justify !important;
     text-justify: inter-character !important;
-    line-height: 1.8 !important;   /* 日本語が読みやすい行間 */
-    margin-bottom: 1.5rem !important;
+    line-height: 1.8 !important;
+    margin-bottom: 1.8rem !important;
 }
 
-/* --- リンクカード全体の調整 --- */
-div.my-6 {
-    margin: 2.5rem 0 !important; /* カード上下にしっかり余白を確保 */
-    display: flex !important;
-    justify-content: flex-start !important;
-}
-
-div.my-6 a {
-    border: 1px solid #cbd5e1 !important; /* 枠線を細く上品に */
-    border-radius: 0.75rem !important;     /* 角丸を少し抑えてシャープに */
+/* --- 2. リンクカード（影なし・太枠・角丸） --- */
+div.my-8 a {
+    /* 影を完全に削除 */
+    box-shadow: none !important;
+    
+    /* 枠線を少し太め (2px) に設定 */
+    border: 2px solid #cbd5e1 !important; /* slate-300相当 */
+    border-radius: 1rem !important;        /* 角丸 */
+    
     background-color: transparent !important;
-    max-width: 600px !important;
+    max-width: 700px !important;
     width: 100% !important;
-    transition: all 0.2s ease-in-out !important;
+    transition: border-color 0.2s ease-in-out !important;
+    display: flex !important;
+    overflow: hidden !important;
+    text-decoration: none !important;
 }
 
 /* ダークモード時の枠線 */
-.dark div.my-6 a {
-    border-color: #475569 !important;
+.dark div.my-8 a {
+    border-color: #475569 !important; /* slate-600相当 */
+    box-shadow: none !important;
 }
 
-/* --- カード内部のテキスト配置 --- */
-div.my-6 a .p-4, 
-div.my-6 a .p-5 {
-    padding: 1.25rem !important; /* 内側にゆとりを持たせる */
+/* ホバー時の挙動：影は出さず、枠線の色だけ変える */
+div.my-8 a:hover {
+    box-shadow: none !important;
+    border-color: #6366f1 !important; /* indigo-500 */
+    transform: none !important;       /* 浮き上がりも無効化 */
 }
 
-/* カード内のタイトル */
-div.my-6 h4 {
-    margin-top: 0.5rem !important;
-    margin-bottom: 0.5rem !important;
-    line-height: 1.4 !important;
+/* --- 3. カード内の画像とテキストの余白 --- */
+div.my-8 img {
+    margin: 0 !important;
+    object-fit: cover !important;
 }
 
-/* カード内のURL表示（一番下の段） */
-div.my-6 .text-\[10px\] {
-    margin-top: 0.75rem !important;
-    display: block !important;
-    opacity: 0.6;
+div.my-8 .p-5 {
+    padding: 1.5rem !important; /* カード内の余白をゆったりと */
 }
