@@ -1,39 +1,42 @@
-/* --- 1. 全体設定：イタリック解除と文字サイズ --- */
-:root {
-    font-size: 16px;
-}
+/* ============================================================
+   1. 本文の整形（両端揃え・斜体解除・文字サイズ）
+   ============================================================ */
 
-/* 記事内の全テキストの斜体を解除 */
+/* 全体の斜体を解除 */
 .post-content, .post-content p, .post-content span, .post-content a {
     font-style: normal !important;
 }
 
-/* --- 2. 記事本文の両端揃えと余白 --- */
-/* 日本語の文字間隔を調整し、左右の端を揃えます */
-.prose p, 
-article p, 
+/* 記事本文の両端揃えを強制 */
+/* 優先度を上げるため、セレクタを3重に重ねています */
+html body article .post-content p,
+html body article .prose p,
 .post-content p {
     text-align: justify !important;
     text-justify: inter-character !important;
-    line-height: 1.8 !important;   /* 読みやすい行間 */
-    margin-bottom: 1.8rem !important; /* 段落間の余白 */
+    line-height: 1.8 !important;
+    margin-bottom: 1.5rem !important;
     display: block !important;
 }
 
-/* --- 3. リンクカード（太枠・角丸・影なし） --- */
-/* div.my-6 または div.my-8 の両方に対応させ、優先度を高めます */
+/* ============================================================
+   2. リンクカード（太枠・角丸・影なし・左寄せ）
+   ============================================================ */
+
+/* カードの外側の余白と配置 */
 div[class*="my-"] {
     margin: 2.5rem 0 !important;
     display: flex !important;
     justify-content: flex-start !important;
 }
 
-/* 枠線を強制的に表示させるための強力な指定 */
-div[class*="my-"] a.group,
+/* 枠線の復活とデザイン */
 div[class*="my-"] a {
-    border: 2px solid #94a3b8 !important; /* slate-400: はっきりしたグレー */
-    border-radius: 1rem !important;      /* 角丸 */
-    box-shadow: none !important;          /* 影を消す */
+    /* 強力に枠線を表示 */
+    border: 2px solid #94a3b8 !important; /* slate-400 */
+    border-radius: 1rem !important;
+    box-shadow: none !important;
+    
     background-color: transparent !important;
     max-width: 650px !important;
     width: 100% !important;
@@ -41,6 +44,7 @@ div[class*="my-"] a {
     display: flex !important;
     flex-direction: column !important;
     transition: border-color 0.2s ease !important;
+    text-decoration: none !important;
 }
 
 /* ダークモード時の枠線 */
@@ -48,36 +52,47 @@ div[class*="my-"] a {
     border-color: #475569 !important; /* slate-600 */
 }
 
-/* ホバー時に色を変更 */
+/* ホバー時に枠線を強調 */
 div[class*="my-"] a:hover {
     border-color: #6366f1 !important; /* indigo-500 */
 }
 
-/* --- 4. カード内部の余白調整 --- */
-/* 枠線と文字の間に適切な「呼吸」を作る */
+/* ============================================================
+   3. カード内部のレイアウト調整
+   ============================================================ */
+
+/* 内側の余白 */
 div[class*="my-"] a .p-4,
 div[class*="my-"] a .p-5,
 div[class*="my-"] a .p-6 {
     padding: 1.5rem !important;
-}
-
-/* カード内のドメイン名（上部） */
-div[class*="my-"] span.text-indigo-500 {
-    margin-bottom: 0.5rem !important;
-    display: inline-block !important;
+    text-align: left !important; /* カード内は左寄せ */
 }
 
 /* カード内のタイトル */
 div[class*="my-"] h4 {
     margin: 0.5rem 0 !important;
     line-height: 1.4 !important;
+    font-weight: 800 !important;
     font-size: 1.1rem !important;
 }
 
-/* 下部のURL表示 */
-div[class*="my-"] .text-\[10px\] {
+/* 下部のURLセクション */
+div[class*="my-"] .mt-4,
+div[class*="my-"] .border-t {
     margin-top: 1rem !important;
     padding-top: 0.75rem !important;
     border-top: 1px solid rgba(148, 163, 184, 0.2) !important;
-    display: block !important;
+}
+
+/* ============================================================
+   4. 記事一覧（1件目のハイライト）
+   ============================================================ */
+.post-entry:first-of-type {
+    background: #fdf6e3 !important; /* ライトモード時のベージュ */
+    border-radius: 8px;
+}
+
+.dark .post-entry:first-of-type {
+    background: #2e2e33 !important; /* ダークモード時 */
 }
