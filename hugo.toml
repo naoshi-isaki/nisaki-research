@@ -9,17 +9,42 @@ theme = 'PaperMod'
 [outputs]
     home = ["HTML", "RSS", "JSON"]
     page = ["HTML"]
+    section = ["HTML"] # 一覧表示のために追加
 
 [markup.goldmark.renderer]
     unsafe = true
 
-# 記事側にある「published」を日付として認識させる設定
 [frontmatter]
     date = ["published", "date", "publishDate"]
     lastmod = ["updated", "lastmod"]
 
-[list]
-    sortFields = ["Date", "Title"]
+# --- ここから修正ポイント ---
+
+[params]
+    # トップページに表示するセクションを正しく指定
+    mainSections = ["post"] 
+    
+    showFullTextContent = false
+    ShowReadingTime = true
+    ShowPostNavLinks = true
+    ShowBreadCrumbs = true
+    ShowPaginationNumbers = true
+
+    # 検索（Fuse.js）の詳細オプション
+    [params.fuseOpts]
+        isCaseSensitive = false
+        shouldSort = true
+        location = 0
+        distance = 1000
+        threshold = 0.4
+        minMatchCharLength = 0
+        keys = ["title", "permalink", "summary", "content"]
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+
+# --- 修正ここまで ---
 
 [[menu.main]]
     identifier = "search"
@@ -42,23 +67,5 @@ theme = 'PaperMod'
 [[menu.main]]
     identifier = "new-post"
     name = "+New Post"
-    # GitHubリポジトリの「post」フォルダ内に新しいファイルを作る画面へ飛ばす
     url = "https://github.dev/naoshi-isaki/nisaki-research/tree/main/content/post"
     weight = 40
-
-[params]
-    showFullTextContent = false
-    ShowReadingTime = true
-    ShowPostNavLinks = true
-    ShowBreadCrumbs = true
-    
-    # ページ番号を数字で表示する
-    ShowPaginationNumbers = true
-
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-    mainSections = ["post"]
-
-    # 検索（Fuse.js）の詳細オプション
-    fuseOpts = { isCaseSensitive = false, shouldSort = true, location = 0, distance = 1000, threshold = 0.4, minMatchCharLength = 0, keys = ["title", "permalink", "summary", "content"] }
