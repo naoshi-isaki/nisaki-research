@@ -1,13 +1,29 @@
-<h1 class="post-title">{{ .Title }}</h1>
+{{- define "main" -}}
+<article class="post-single">
+  <header class="post-header">
+    {{- /* タイトル */ -}}
+    <h1 class="post-title">{{ .Title }}</h1>
+    
+    {{- /* 投稿日などのメタ情報 */ -}}
+    <div class="post-meta">
+      {{- partial "post_meta.html" . -}}
+    </div>
 
-<div class="post-taxonomies mb-4 flex flex-wrap gap-2">
-  {{ range (.GetTerms "tags") }}
-    <a href="{{ .RelPermalink }}" class="text-xs px-2 py-1 bg-slate-100 text-slate-600 rounded border border-slate-200 no-underline">#{{ .LinkTitle }}</a>
-  {{ end }}
-</div>
+    {{- /* タグの表示（ここを安全に差し込みます） */ -}}
+    <div class="post-taxonomies mt-4 flex flex-wrap gap-2">
+      {{- range (.GetTerms "tags") -}}
+      <a href="{{ .RelPermalink }}" class="text-xs px-2 py-1 bg-slate-100 text-slate-600 rounded border border-slate-200 no-underline">#{{ .LinkTitle }}</a>
+      {{- end -}}
+    </div>
+  </header>
 
-<hr class="my-6 opacity-10">
+  {{- /* 本文：これがないとショートコードが展開されません */ -}}
+  <div class="post-content prose dark:prose-invert max-w-none">
+    {{- .Content -}}
+  </div>
 
-<div class="post-content prose max-w-none">
-  {{ .Content }}
-</div>
+  <footer class="post-footer">
+    {{- /* 関連記事などが必要な場合はここに追記 */ -}}
+  </footer>
+</article>
+{{- end -}}
