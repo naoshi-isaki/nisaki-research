@@ -53,7 +53,10 @@ theme = 'PaperMod'
     
     # ページ番号を数字で表示する
     ShowPaginationNumbers = true
-    
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
     mainSections = ["post"]
 
     # 検索（Fuse.js）の詳細オプション
