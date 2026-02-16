@@ -77,6 +77,22 @@ div[class*="my-"] h4 {
     font-size: 1.1rem !important;
 }
 
+/* --- リンクカード上部のドメイン表示を小さく --- */
+
+/* カード内の一番上にあるドメイン名のスパン要素を調整します */
+div[class*="my-"] a span.text-indigo-500,
+div[class*="my-"] a span.text-\[10px\]:first-child {
+    font-size: 0.65rem !important;      /* 下部URLと同じサイズに縮小 */
+    letter-spacing: 0.05em !important;  /* 少し字間を広げて可読性を確保 */
+    opacity: 0.7 !important;           /* 少し薄くして主張を抑える */
+    text-transform: lowercase !important; /* 小文字に統一してミニマルな印象に */
+}
+
+/* カード内のタイトル（h4）との間隔が詰まりすぎないよう調整 */
+div[class*="my-"] a h4 {
+    margin-top: 0.25rem !important;
+}
+
 /* 下部のURLセクション */
 div[class*="my-"] .truncate.text-\[10px\],
 div[class*="my-"] .mt-4 span,
