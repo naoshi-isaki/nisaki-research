@@ -96,3 +96,42 @@ div[class*="my-"] .border-t {
 .dark .post-entry:first-of-type {
     background: #2e2e33 !important; /* ダークモード時 */
 }
+
+/* ============================================================
+   5. スマートフォン向けの調整（レスポンシブ）
+   ============================================================ */
+
+/* 画面幅が 768px 以下のデバイスに適用 */
+@media (max-width: 768px) {
+    /* サイト全体の基準サイズを少し下げる */
+    :root {
+        font-size: 15px; 
+    }
+
+    /* 記事本文の文字サイズと行間を微調整 */
+    html body article .post-content p,
+    html body article .prose p,
+    .post-content p {
+        font-size: 15px !important;
+        line-height: 1.7 !important; /* スマホでは行間を少し詰めると読みやすい */
+        margin-bottom: 1.2rem !important;
+    }
+
+    /* 記事タイトルのサイズを調整 */
+    h1.post-title, 
+    .entry-header h2 {
+        font-size: 1.4rem !important;
+        line-height: 1.3 !important;
+    }
+
+    /* リンクカード内の文字もスマホ用に最適化 */
+    div[class*="my-"] a h4 {
+        font-size: 1rem !important;
+    }
+
+    div[class*="my-"] a .p-5,
+    div[class*="my-"] a .p-6 {
+        padding: 1.1rem !important; /* カード内の余白も少し削る */
+    }
+
+}
