@@ -1,5 +1,5 @@
 <div class="my-6">
-  <a href="{{ .Get 0 }}" target="_blank" rel="noopener" class="group block overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition-all hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-neutral-800 no-underline">
+  <a href="{{ .Get 0 }}" target="_blank" rel="noopener" class="group block overflow-hidden rounded-xl border border-slate-200 bg-white shadow-sm transition-all hover:border-indigo-300 hover:shadow-md dark:border-slate-700 dark:bg-neutral-800 no-underline" style="max-width: 600px; margin-left: 0; margin-right: auto;">
     <div class="p-4">
       <div class="flex flex-col gap-1">
         <span class="text-xs font-bold uppercase tracking-wider text-indigo-500">{{ index (split (replace (replace (.Get 0) "https://" "") "http://" "") "/") 0 }}</span>
