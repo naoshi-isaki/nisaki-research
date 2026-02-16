@@ -75,21 +75,51 @@ article p,
 }
 
 /* --- 2. リンクカードの枠線と角丸 --- */
-/* 以前作成した .my-6 の中の a タグを強制的に装飾します */
-div.my-6 a, 
-.my-6 a.group {
-    border: 2px solid #cbd5e1 !important; /* slate-300相当のグレー */
-    border-radius: 1rem !important;      /* 角丸 */
-    display: block !important;
-    text-decoration: none !important;
-    box-sizing: border-box !important;
+/* --- 本文の両端揃えと行間の最適化 --- */
+.prose p {
+    text-align: justify !important;
+    text-justify: inter-character !important;
+    line-height: 1.8 !important;   /* 日本語が読みやすい行間 */
+    margin-bottom: 1.5rem !important;
 }
 
-/* ホバー時の枠線（インディゴ） */
-div.my-6 a:hover {
-    border-color: #6366f1 !important;
+/* --- リンクカード全体の調整 --- */
+div.my-6 {
+    margin: 2.5rem 0 !important; /* カード上下にしっかり余白を確保 */
+    display: flex !important;
+    justify-content: flex-start !important;
 }
-/* 強調したい場合、ホバー時に枠線の色を変える */
-.my-6 a:hover {
-    border-color: #6366f1 !important; /* indigo-500 */
+
+div.my-6 a {
+    border: 1px solid #cbd5e1 !important; /* 枠線を細く上品に */
+    border-radius: 0.75rem !important;     /* 角丸を少し抑えてシャープに */
+    background-color: transparent !important;
+    max-width: 600px !important;
+    width: 100% !important;
+    transition: all 0.2s ease-in-out !important;
+}
+
+/* ダークモード時の枠線 */
+.dark div.my-6 a {
+    border-color: #475569 !important;
+}
+
+/* --- カード内部のテキスト配置 --- */
+div.my-6 a .p-4, 
+div.my-6 a .p-5 {
+    padding: 1.25rem !important; /* 内側にゆとりを持たせる */
+}
+
+/* カード内のタイトル */
+div.my-6 h4 {
+    margin-top: 0.5rem !important;
+    margin-bottom: 0.5rem !important;
+    line-height: 1.4 !important;
+}
+
+/* カード内のURL表示（一番下の段） */
+div.my-6 .text-\[10px\] {
+    margin-top: 0.75rem !important;
+    display: block !important;
+    opacity: 0.6;
 }
