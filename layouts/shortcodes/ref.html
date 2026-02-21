@@ -1,5 +1,3 @@
-{{/* usage: {{< prevcard "post/2025-11-23_20251122_fascism" >}} */}}
-
 {{ $path := .Get 0 }}
 {{ $page := site.GetPage $path }}
 
@@ -7,35 +5,41 @@
 <div class="my-4 w-full">
   <a href="{{ $page.RelPermalink }}"
      class="group block w-full max-w-2xl
-            rounded-lg border border-slate-300/70
-            bg-slate-900/50 backdrop-blur
+            rounded-xl border border-slate-200/15
+            bg-white/5 backdrop-blur
             px-4 py-3
-            transition
-            hover:border-slate-400/70 hover:shadow-sm
-            dark:border-slate-700/70 dark:bg-slate-950/30 dark:hover:border-slate-600/80">
+            overflow-hidden
+            transition hover:bg-white/7 hover:border-slate-200/25">
 
-    <!-- header: PREV + date -->
-    <div class="flex items-center gap-2 text-[11px] text-slate-400 dark:text-slate-500">
-      <span class="inline-flex items-center rounded-md border border-indigo-300/30 bg-indigo-500/10
-                   px-2 py-0.5 font-semibold tracking-wide text-indigo-300">
-        PREV
-      </span>
-      <span class="font-mono">
-        {{ $page.Date.Format "2006-01-02" }}
-      </span>
+    <div class="flex items-start gap-3 min-w-0">
+
+      <!-- left: arrow -->
+      <div class="mt-0.5 shrink-0 text-slate-300/70 group-hover:text-slate-100 transition">
+        ←
+      </div>
+
+      <!-- right: content (min-w-0 が重要) -->
+      <div class="min-w-0 flex-1">
+
+        <!-- top row: title + date -->
+        <div class="flex items-baseline justify-between gap-3 min-w-0">
+          <div class="min-w-0 font-semibold text-slate-100
+                      truncate group-hover:text-white transition">
+            {{ $page.Title }}
+          </div>
+
+          <div class="shrink-0 text-[11px] font-mono text-slate-400/80">
+            {{ $page.Date.Format "2006-01-02" }}
+          </div>
+        </div>
+
+        <!-- summary: 1 line, always -->
+        <div class="mt-1 text-sm text-slate-300/80 min-w-0 truncate">
+          {{ $page.Summary | plainify | truncate 140 }}
+        </div>
+
+      </div>
     </div>
-
-    <!-- title -->
-    <h4 class="mt-1 text-sm font-semibold text-slate-100
-               group-hover:text-indigo-300 transition
-               line-clamp-1">
-      {{ $page.Title }}
-    </h4>
-
-    <!-- summary (optional): 1〜2行。縦幅が気になるなら line-clamp-1 推奨 -->
-    <p class="mt-1 text-xs leading-snug text-slate-400 dark:text-slate-300/80 line-clamp-1">
-      {{ $page.Summary | plainify | truncate 90 }}
-    </p>
 
   </a>
 </div>
